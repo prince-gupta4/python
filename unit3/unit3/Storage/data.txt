@@ -1,3 +1,0 @@
-Hello world! Welcome
-Marwadi University
-Python Lab
